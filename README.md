@@ -1,6 +1,6 @@
 # Store API for ...
 
-_**🚧🔨 Status: V1 Ready 🚧🔨**_
+_**🚧🔨 Status: V2 in development 🚧🔨**_
 
 ## 🛠️ Tools & library
 
@@ -8,7 +8,7 @@ _**🚧🔨 Status: V1 Ready 🚧🔨**_
 
 ## Description
 
-First version of store-app. This version has only a simple boilerplate containing a route, controller and service based on the best practices written in the documentation.
+v2 : project modularisation and documentation with Swagger
 
 ## Installation
 
