@@ -1,6 +1,6 @@
 # Store API for ...
 
-_**🚧🔨 Project in development: Work in progress 🚧🔨**_
+_**🚧🔨 Status: V1 Ready 🚧🔨**_
 
 ## 🛠️ Tools & library
 
@@ -8,7 +8,7 @@ _**🚧🔨 Project in development: Work in progress 🚧🔨**_
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+First version of store-app. This version has only a simple boilerplate containing a route, controller and service based on the best practices written in the documentation.
 
 ## Installation
 
@@ -19,27 +19,8 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
-$ npm run start
-
 # watch mode
 $ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ⌨️ with ❤️ by [@camjasaez](https://github.com/camjasaez)
